@@ -17,6 +17,15 @@ Repository to kick start your journey with GitHub Actions
 
 In conclusion, Jenkins is better suited for complex and large-scale automation tasks, while GitHub Actions is a more cost-effective and user-friendly solution for simple to moderate automation needs.
 
-## Refrence links
+### Reference Links
 
-- https://github.com/iam-veeramalla/GitHub-Actions-Zero-to-Hero.git
+---
+
+- [GitHub Actions: Zero to Hero (Course Repository) for practice](https://github.com/iam-veeramalla/GitHub-Actions-Zero-to-Hero.git)
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [Writing Workflows](https://docs.github.com/en/actions/writing-workflows)
+- [Workflow Syntax for GitHub Actions](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions)
+- [Use Cases and Examples](https://docs.github.com/en/actions/use-cases-and-examples)
+- [Building and Testing Python Projects](https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-python)
+
+---
