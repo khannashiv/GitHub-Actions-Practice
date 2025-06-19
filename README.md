@@ -1,4 +1,4 @@
-# GitHub-Actions Theory
+# GitHub-Actions
 
 ## Comparing with Jenkins 
 
